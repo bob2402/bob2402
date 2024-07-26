@@ -1,5 +1,3 @@
-# Recent work
+[hypergolic](https://github.com/nostrocket/hypergolic)
 
-- [blowater](https://git.blowater.app/blowater/blowater)
-- [nostr-sdk](https://git.blowater.app/blowater/nostr.ts)
-- [relayed](https://git.blowater.app/blowater/relayed)
+[blowater](https://github.com/BlowaterNostr/blowater) · [nostr-sdk](https://github.com/BlowaterNostr/nostr.ts) · [relayed](https://github.com/BlowaterNostr/relayed)
